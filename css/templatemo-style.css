@@ -297,7 +297,7 @@ hr {
 /* END PORTFOLIO */
 
 /* START RESUME */
-.tm-red-text { color: #eb5424; }
+.tm-red-text { color: #ffffff;font-weight: bold; }
 .tm-info-label {
   font-weight: bold;
   display: inline-block;
